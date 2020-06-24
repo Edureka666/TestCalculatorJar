@@ -16,7 +16,7 @@ public class CalcTest
 		
 	    WebDriver driver;
 	    
-	    String myURL = "http://35.188.0.176:9090/calculator/";
+	    String myURL = "http://34.67.132.134:9090/calculator/";
 	    FirefoxOptions options = new FirefoxOptions();
         
         //options.addArguments("--headless");
